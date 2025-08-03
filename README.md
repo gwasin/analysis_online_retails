@@ -1,6 +1,5 @@
-# analysis_online_retails
+# Online Retail Data Analysis
 just practice to analysis data for get an experience.
-**Online Retail Data Analysis**
 
 This project involves analyzing an Online Retail dataset to gain insights into customer behavior, sales trends, and potential business opportunities.
 
