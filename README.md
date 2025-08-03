@@ -31,3 +31,5 @@ Key Steps : - Data Cleaning (handle missing data, remove duplicates, fix types)
             - Time-based sales analysis
 
             - (Optional) Forecasting future sales
+
+Database : https://docs.google.com/spreadsheets/d/1Wk-6QkAWphfXfEd0XBFPvRdd66uY0Ht_/edit?usp=drive_link&ouid=115993952526688723222&rtpof=true&sd=true
